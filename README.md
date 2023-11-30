@@ -1,8 +1,7 @@
 # omnifood
-
 🎉 Welcome to my second web project, a conceptual website showcasing an innovative food delivery service called Omnifood. 🎉
 
-🛠️ In collaboration with my teacher, Jonas Schmidtmann, who developed the JavaScript functionality, I created the HTML and CSS components of this website, exploring design principles and user experience concepts. 🎨
+🛠️ In collaboration with my teacher, Jonas Schmidtmann, who played a significant role in developing the JavaScript functionality, I contributed to the website's HTML and CSS components, exploring design principles and user experience concepts. 🎨
 
 About Omnifood:
 
@@ -32,4 +31,8 @@ Challenges and Learning Experiences:
 
 Acknowledgments:
 
-The JavaScript functionality of this website was developed by Jonas Schmidtmann. 👨‍💻
+The majority of the JavaScript functionality of this website was developed by Jonas Schmidtmann. 👨‍💻 
+
+I also contributed to some aspects of the JavaScript functionality, under the guidance of Jonas Schmidtmann. 🤓
+
+Thank you to Jonas Schmidtmann for his invaluable mentorship and guidance throughout this project. 🙏
