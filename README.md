@@ -36,3 +36,5 @@ The majority of the JavaScript functionality of this website was developed by Jo
 I also contributed to some aspects of the JavaScript functionality, under the guidance of Jonas Schmidtmann. 🤓
 
 Thank you to Jonas Schmidtmann for his invaluable mentorship and guidance throughout this project. 🙏
+
+#webdevelopment #HTML #CSS #JonasSchmidtmann #learning
